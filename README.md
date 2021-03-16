@@ -1,7 +1,5 @@
 [![header](./utils/header.png)](https://reheader.glitch.me/)
 
----
-
 ## Skills / Interest 👨‍💻
 
 - *I’m interested in* AI, more specifically, Machine Learning and Deep Learning, and it's applications in current society.
