@@ -31,7 +31,7 @@
   Prediction and Climate Modelling using Deep Learning.
 
 - **Autonomous Robotics & AI Intern** @ [Ottonomy.io](https://www.ottonomy.io/), *[June 2020 - Aug 2020]*  
-  Specifically pertaining to setting up of training and deployment pipelines for Deep Learning models utilizing AWS resources, 
+  Specifically pertaining to setting up of training and deployment pipelines for Deep Learning models utilizing AWS services, 
   including but not limited to: S3, EC2, SageMaker.
 
 ## Education 📚
@@ -45,17 +45,15 @@
 
 ## Contact Information 📫
 
-<p align="center">
-  <i>How to reach me:</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="Twitter"><img src="./utils/linkedin.svg"></a>
-    <a href="http://m.me/rhitviksinha" alt="Messenger"><img src="./utils/messenger.svg"></a>
-    <a href="mailto:rhitviksinha29@gmail.com" alt="Mail"><img src="./utils/gmail.svg"></a>
+<p>
+  <p>
+    <a href="mailto:rhitviksinha29@gmail.com" alt="Mail"><img src="./utils/gmail.svg" width="40" height="40"></a>
+    <a href="http://m.me/rhitviksinha" alt="Messenger"><img src="./utils/messenger.svg" width="40" height="40"></a>
+    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="Twitter"><img src="./utils/linkedin.svg" width="40" height="40"></a>
   </p>
 </p>
 
-## Extras / Hobbies
+## Extras / Hobbies ⚽🎸📷
 
 - I am an avid sports fan. Keep up with the latest in football and cricket. Would love to bore you with random Manchester United trivia.
 - Also try my hand at the Guitar occasionally.
