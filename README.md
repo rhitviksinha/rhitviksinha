@@ -1,5 +1,8 @@
 [![header](./utils/header.png)](https://reheader.glitch.me/)
 
+Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
+
+---
 ## Skills / Interest 👨‍💻
 
 - *I’m interested in* AI, more specifically, Machine Learning and Deep Learning, and it's applications in current society.
@@ -45,9 +48,10 @@
 
 <p>
   <p>
+    <a href="https://rhitviksinha.github.io/" alt="Personal Webpage"><img src="./utils/www.svg" width="40" height="40"></a>
     <a href="mailto:rhitviksinha29@gmail.com" alt="Mail"><img src="./utils/gmail.svg" width="40" height="40"></a>
     <a href="http://m.me/rhitviksinha" alt="Messenger"><img src="./utils/messenger.svg" width="40" height="40"></a>
-    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="Twitter"><img src="./utils/linkedin.svg" width="40" height="40"></a>
+    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="LinkedIn"><img src="./utils/linkedin.svg" width="40" height="40"></a>
   </p>
 </p>
 
