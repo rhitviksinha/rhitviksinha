@@ -9,13 +9,13 @@ Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
 
 - I've developed a level of comfort with TensorFlow 2.x, and *I’m currently learning* PyTorch.
   <details>
-    <summary>Some of the classes I'm taking this semester, at college:</summary>
+    <summary>Some of the classes I've shortlisted to take this semester (I can only register 3):</summary>
     <ul>
-      <li>AI61002: Deep Learning</li>
-      <li>AI61005: Artificial Intelligence</li>
-      <li>EE30004: Embedded Systems</li>
-      <li>MA20106: Probability and Stochastic Processes</li>
-      <li>CS31702: Computer Architecture & Operating Systems</li>
+      <li>CSCI-GA 1180: Fundamental Algorithms <i>(confirmed)</i></li>
+      <li>CSCI-GA 2565: Machine Learning <i>(confirmed)</i></li>
+      <li>CSCI-GA 2271: Computer Vision <i>(subject to pre-requisite waiver)</i></li>
+      <li>DS-GA 1014: Optimization and Computational Linear Algebra <i>(subject to DS dept. approval)</i></li>
+      <li>CSCI-GA 2110: Programming Languages <i>(can also be taken next semester)</i></li>
     </ul>
   </details>
 
@@ -23,23 +23,54 @@ Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
 
 ## Experience 💼
 
-- *Incoming* **Deep Learning Research Intern** @ [Kabuni Sports](https://www.kabuni.com/cricket.html), *[May 2021 - July 2021]*  
-  Create and apply deep learning models to human pose estimation using historic video of professional Cricket players with 
-  the goal of building an application that young Cricket players can use to learn about the game and ultimately train themselves.
+- **Transformational AI Intern** @ [Ministry of Electronics and Information Technology, Govt. of India](https://www.meity.gov.in/), *[Aug 2021 - Oct 2021]*
+  <details>
+    <summary>expand</summary><p>
+      Working on Transformational AI projects in the Health Sector, as part of Ministry of Electronics and Information 
+      Technology's <a href="https://www.meity.gov.in/digital-india-internship-scheme-2021-2nd-cycle">Digital India Internship Scheme 2021 (2nd Cycle)</a>. 
+      Responsible for the landscaping and the subsequent review of the ecosystem and policies operating at the intersection of AI and 
+      Healthcare in India.</p>
+  </details>
 
-- **Research Project** @ [Centre of Excellence in Artificial Intelligence, IIT Kharagpur](http://www.ai.iitkgp.ac.in/), *[Jan 2021 - ]*  
-  Working under the guidance of [Prof. Adway Mitra](http://www.iitkgp.ac.in/department/AI/faculty/ai-adway) on Extreme Weather 
-  Prediction and Climate Modelling using Deep Learning.
+- **Undergraduate Research Project** @ [Centre of Excellence in Artificial Intelligence, IIT Kharagpur](http://www.ai.iitkgp.ac.in/), *[Jan 2021 - Nov 2021]*  
+  <details>
+    <summary>expand</summary>
+    <ul>
+      <li>Working under the guidance of <a href="https://sites.google.com/site/adwayresearch/">Prof. Adway Mitra</a> on Extreme Weather Prediction and Climate Modeling using Deep Learning.</li>
+      <li>Dataset Used: NCAR CESM-LENS (stored on AWS S3)</li>
+      <li>Python-based implementation, PyTorch used as Deep Learning framework of choice to implement “Dynamic Routing Between Capsules” (2017, Hinton et al.) from scratch.</li>
+      <li>Recreate findings from “Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning” (2020, Chattopadhyay et al.)</li>
+    </ul>
+  </details>
+
+- **Deep Learning Research Intern** @ [Kabuni Sports](https://www.kabuni.com/cricket.html), *[May 2021 - July 2021]*  
+  <details>
+    <summary>expand</summary><p>
+      Apply pre-trained Deep Learning models for the Human Pose Estimation task. Use extracted Pose Information to 
+      suggest improvements in a Cricket (Sport) Learner's technique, preventing inefficiency and injuries.</p>
+    <ul>
+      <li>Python based implementation, with Deep Learning framework of choice being PyTorch.</li>
+      <li>Torchvision's KeypointRCNN class finetuned for best accuracy used for the Human Pose Estimation (HPE) task. Used to generate time series pose data from video clips.</li>
+      <li>Recurrent Neural Net used for maximizing accuracy at detection of potential errors in technique from gathered time series pose data.</li>
+      <li><i>Company has since pivoted to a metaverse oriented application, and had it's sports division shut down.</i></li>
+    </ul>
+  </details>
 
 - **Autonomous Robotics & AI Intern** @ [Ottonomy.io](https://www.ottonomy.io/), *[June 2020 - Aug 2020]*  
-  Specifically pertaining to setting up of training and deployment pipelines for Deep Learning models utilizing AWS services, 
-  including but not limited to: S3, EC2, SageMaker.
+  <details>
+    <summary>expand</summary>
+    <ul>
+      <li>Automate last mile delivery through self-driving rovers that operate on sidewalks.</li>
+      <li>Setting up of cloud-based training and deployment pipelines for Deep Learning models utilizing AWS services, including but not limited to: S3, EC2, SageMaker</li>
+      <li>Pipelines for the following frameworks were setup: TensorFlow, PyTorch</li>
+    </ul>
+  </details>
 
 ## Education 📚
 
-- I'm a 3rd year undergraduate student @ [IIT Kharagpur](http://www.iitkgp.ac.in/).
-  - **Major:** Electrical Engineering @ [Department of Electrical Engineering](http://www.ee.iitkgp.ac.in/)
-  - **Micro-Specialization:** Artificial Intelligence and Applications @ [Centre of Excellence in Artificial Intelligence](http://www.ai.iitkgp.ac.in/)
+- As of Fall '22 I'm a [Computer Science](https://cs.nyu.edu/) Master's Student @ [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), [New York University](https://nyu.edu/).
+
+- I completed my undergraduate study in 2022, majoring in Electrical Engineering, @ the [Department of Electrical Engineering](http://www.ee.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 - Went to High School at [Delhi Public School RK Puram](https://dpsrkp.net/) (2016-2018) & 
   [Delhi Public School Ruby Park Kolkata](https://www.dpskolkata.com/) (2006-2016).
@@ -57,7 +88,10 @@ Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
 
 ## Extras / Hobbies ⚽🎸📷
 
-- I am an avid sports fan. Keep up with the latest in football and cricket. Would love to bore you with random Manchester United trivia.
+- I am an avid sports fan. Keep up with the latest in formula 1, football tennis, cricket and more. Would love to bore you 
+  with random Manchester United trivia. Michael Schumacher is a god to me. I've idolized this man since I was, like, 3. I (obviously) 
+  don't even remeber any of this, but my mom tells me stories of how I refused to eat until I had watched, my daily quota of his 
+  iconic screaming Marlboro-branded Ferraris, define "on-the-limit", on TV.
 - Also try my hand at the Guitar occasionally.
 - I enjoy capturing pictures of the places I visit, using my phone. Check out [@rhit.click](https://www.instagram.com/rhit.click/). Some samples:  
   | ![Ladakh][Ladakh] | ![SanDiego][SanDiego] | ![Kharagpur][Kharagpur] |
