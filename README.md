@@ -1,9 +1,51 @@
 [![header](./utils/header.png)](https://reheader.glitch.me/)
 
-Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
 
 ---
-## Skills / Interest 👨‍💻
+## 📫 Contact Me @
+
+<p>
+  <p>
+    <a href="https://rhitviksinha.github.io/" alt="Personal Webpage"><img src="./utils/www.svg" width="40" height="40"></a>
+    <a href="mailto:rhitviksinha29@gmail.com" alt="Mail"><img src="./utils/gmail.svg" width="40" height="40"></a>
+    <a href="http://m.me/rhitviksinha" alt="Messenger"><img src="./utils/messenger.svg" width="40" height="40"></a>
+    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="LinkedIn"><img src="./utils/linkedin.svg" width="40" height="40"></a>
+  </p>
+</p>
+
+## 📚 Education
+
+- As of Fall '22 I'm a [Computer Science](https://cs.nyu.edu/) Master's Student @ [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), [New York University](https://nyu.edu/).
+
+- I completed my undergraduate study in 2022, majoring in Electrical Engineering, @ the [Department of Electrical Engineering](http://www.ee.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in/).
+  <details>
+    <summary>Some relevant coursework <i>(and grades received)</i> completed at IIT:</summary>
+    <ul>
+      <li><b>Undergraduate Level Classes:</b></li>
+        <ul>
+          <li>CS10001: Programming & Data Structures <i>(8/10)</i></li>
+          <li>MA20101: Transform Calculus <i>(8/10)</i></li>
+          <li>MA20106: Probability & Stochastic Processes <i>(9/10)</i></li>
+          <li>CS31702: Computer Architecture & Operating Systems <i>(8/10)</i></li>
+          <li>CS40032: Principles of Programming Languages <i>(8/10)</i></li>
+          <li>AI42001: Machine Learning <i>(9/10)</i></li>
+        </ul>
+      <li><b>Graduate Level Classes:</b></li>
+        <ul>
+          <li>AI60004: Big Data Processing <i>(9/10)</i></li>
+          <li>AI61002: Deep Learning <i>(9/10)</i></li>
+          <li>CD66001: Accelerated Data Science <i>(10/10)</i></li>
+          <li>AI61005: Artificial Intelligence <i>(8/10)</i></li>
+          <li>CS61061: Data Analytics (9/10) <i>(9/10)</i></li>
+          <li>CS66010: Security & Privacy in Online Social Networks <i>(8/10)</i></li>
+        </ul>
+    </ul>
+  </details>
+
+- Went to High School at [Delhi Public School RK Puram](https://dpsrkp.net/) (2016-2018) & 
+  [Delhi Public School Ruby Park Kolkata](https://www.dpskolkata.com/) (2006-2016).
+
+## 👨‍💻 Skills / Interest
 
 - *I’m interested in* AI, more specifically, Machine Learning and Deep Learning, and it's applications in current society.
 
@@ -21,7 +63,7 @@ Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
 
 - *I’m looking to collaborate on* anything ML, really.
 
-## Experience 💼
+## 💼 Experience
 
 - **Transformational AI Intern** @ [Ministry of Electronics and Information Technology, Govt. of India](https://www.meity.gov.in/), *[Aug 2021 - Oct 2021]*
   <details>
@@ -66,32 +108,12 @@ Visit [rhitviksinha.github.io](https://rhitviksinha.github.io)
     </ul>
   </details>
 
-## Education 📚
-
-- As of Fall '22 I'm a [Computer Science](https://cs.nyu.edu/) Master's Student @ [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), [New York University](https://nyu.edu/).
-
-- I completed my undergraduate study in 2022, majoring in Electrical Engineering, @ the [Department of Electrical Engineering](http://www.ee.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in/).
-
-- Went to High School at [Delhi Public School RK Puram](https://dpsrkp.net/) (2016-2018) & 
-  [Delhi Public School Ruby Park Kolkata](https://www.dpskolkata.com/) (2006-2016).
-
-## Contact Information 📫
-
-<p>
-  <p>
-    <a href="https://rhitviksinha.github.io/" alt="Personal Webpage"><img src="./utils/www.svg" width="40" height="40"></a>
-    <a href="mailto:rhitviksinha29@gmail.com" alt="Mail"><img src="./utils/gmail.svg" width="40" height="40"></a>
-    <a href="http://m.me/rhitviksinha" alt="Messenger"><img src="./utils/messenger.svg" width="40" height="40"></a>
-    <a href="https://www.linkedin.com/in/rhitvik-sinha" alt="LinkedIn"><img src="./utils/linkedin.svg" width="40" height="40"></a>
-  </p>
-</p>
-
-## Extras / Hobbies ⚽🎸📷
+## ⚽🏎️🎸📷 Extras / Hobbies
 
 - I am an avid sports fan. Keep up with the latest in formula 1, football tennis, cricket and more. Would love to bore you 
   with random Manchester United trivia. Michael Schumacher is a god to me. I've idolized this man since I was, like, 3. I (obviously) 
-  don't even remeber any of this, but my mom tells me stories of how I refused to eat until I had watched, my daily quota of his 
-  iconic screaming Marlboro-branded Ferraris, define "on-the-limit", on TV.
+  don't even remeber any of this, but my mom tells me stories of how as a toddler, I refused to eat until I had watched on TV, my daily 
+  quota of Michael define "on-the-limit" driving those iconic Marlboro-branded Ferraris.
 - Also try my hand at the Guitar occasionally.
 - I enjoy capturing pictures of the places I visit, using my phone. Check out [@rhit.click](https://www.instagram.com/rhit.click/). Some samples:  
   | ![Ladakh][Ladakh] | ![SanDiego][SanDiego] | ![Kharagpur][Kharagpur] |
